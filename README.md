@@ -61,4 +61,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## The Website Link ⬇
 
-<a target="_blank" target href="https://pet-guru.vercel.app/">Pet Guru</a>
+<a target="_blank" href="https://pet-guru.vercel.app/">Pet Guru</a>
