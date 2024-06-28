@@ -24,8 +24,8 @@ This project is built using the following tools, libraries :
 
 ## api's used in the project
 
-- **thedogapi**: is an api that have bunch of dog information and images these are the links we used to get the dog info and img's <a href="https://api.thedogapi.com/v1/breeds">thedoginfo</a> <a href="https://api.thedogapi.com/v1/images/search?limit=10">the dog images</a>.
-- **thecatapi**: is an api that have bunch of cat information and images these are the links we used to get the dog info and img's <a href="https://api.thecatapi.com/v1/breeds">thedoginfo</a> <a href="https://api.thecatapi.com/v1/images/search?limit=10">the dog images</a>.
+- **thedogapi**: is an api that have bunch of dog information and images these are the links we used to get the dog info and img's <a target="_blank" href="https://api.thedogapi.com/v1/breeds">thedoginfo</a> <a href="https://api.thedogapi.com/v1/images/search?limit=10">the dog images</a>.
+- **thecatapi**: is an api that have bunch of cat information and images these are the links we used to get the dog info and img's <a target="_blank" href="https://api.thecatapi.com/v1/breeds">thedoginfo</a> <a href="https://api.thecatapi.com/v1/images/search?limit=10">the dog images</a>.
 
 ## Installation
 
@@ -61,4 +61,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## The Website Link ⬇
 
-<a href="https://pet-guru.vercel.app/">Pet Guru</a>
+<a target="_blank" target href="https://pet-guru.vercel.app/">Pet Guru</a>
